@@ -1,2 +1,4 @@
 # full-sample
-Appendix fullsample in the article titled:A Statistical Analysis of Fluence and Energy Distributions of Non-repeating Fast Radio Bursts Detected by CHIME
+This repository provides the long data table (Appendix) for the article:
+“A Statistical Analysis of Fluence and Energy Distributions of Non-repeating Fast Radio Bursts Detected by CHIME.”
+
